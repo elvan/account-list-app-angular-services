@@ -5,7 +5,6 @@ import { AccountComponent } from './account/account.component';
 import { AppComponent } from './app.component';
 import { NewAccountComponent } from './new-account/new-account.component';
 
-
 @NgModule({
   declarations: [AppComponent, AccountComponent, NewAccountComponent],
   imports: [BrowserModule, FormsModule],
